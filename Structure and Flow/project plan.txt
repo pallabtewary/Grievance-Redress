@@ -1,0 +1,51 @@
+Members(Group B)-:
+
+Buddhadeb Jena
+Anirban Das
+Isita Ghosh
+Pallab Tewary
+Nitin Kumar
+
+Preliminary stage-:
+
+	1.Documentation: Pallab Tewary, Nitin Kumar
+	2.Database Structure: Buddhadeb Jena
+	3.Database Diagram : Buddhadeb Jena
+	
+1st stage(compiling sources and initial configuration):-
+
+	1.Frontend -: Isita Ghosh, Pallab Tewary, Nitin Kumar
+	2.Database creation -: Anirban Das
+
+2nd stage(module creation and implementation):-
+
+	1.Landing page(TBD)
+	2.Login(Pallab,Anirban)
+	3.Dashboard
+
+		-Admin (Buddhadeb)
+			Add,Update,Remove,Show Customers/CSR/Dept/Product/Technician/Defects
+			Generate reports by feedback on CSRs
+			Everything that Customer and CSR can do
+			
+		-Customer (Isita)
+			-ShowInfo
+			-Product Owned List
+				-Customer Defect
+			-Complaints(Add,Close)
+			-Feedback(Add)	
+	
+		-CSR (Nitin)
+			-Show Customers
+			-Show,Update,Close Complaints
+			-Show Departments
+				-Show Technicians
+			-Add/Show Product defect(optional),Customer Defect
+
+3rd stage(testing):-
+
+TBD
+
+Deployment:-
+
+TBD
